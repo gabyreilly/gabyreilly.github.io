@@ -1,5 +1,5 @@
 ---
-title: "Diversity, Equity, Inclusion"
+title: "Diversity, Equity, and Inclusion"
 layout: single
 permalink: /dei/
 author_profile: true
