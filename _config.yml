@@ -60,15 +60,15 @@ author:
   avatar : "/assets/images/200px.png"
   bio    : "Lead Engineer at Airship <br />Portland OR"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://gabyreilly.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/gabyreilly"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/gabyreilly"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/gaby-reilly-902756b4/"
 
 footer:
   links:
@@ -78,6 +78,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/gabyreilly"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/gaby-reilly-902756b4/"
 
 defaults:
   # _posts
