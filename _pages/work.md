@@ -1,7 +1,7 @@
 ---
 title: "Work Experience"
 layout: single
-permalink: /work/
+permalink: /
 author_profile: true
 toc: true
 toc_icon: laptop-code

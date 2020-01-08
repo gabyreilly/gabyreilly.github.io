@@ -1,10 +1,8 @@
 main:
   - title: "Work"
-    url: /work/
+    url: /
   - title: "DE&I"
     url: /dei/
   - title: "Talks and Zines"
     url: /talks/
-  - title: "Contact"
-    url: /contact/
     
