@@ -13,16 +13,16 @@ Senior Engineer | July 2016 - November 2018
 
 Technical team lead focused on creating an SMS messaging product with deep integration to Airship’s existing platform.
 
-### Backend Engineering
-* Created, modified, and supported Java services in a microservice environment, including participating in an on-call rotation for a system which sent billions of notifications a day
-* Java services included extensive use of Protobuf, RPC, thread pools, asynchronous data flows, unit tests, and processing at scale
-* Deployed with GCP Cloud: Compute Engine, Cloud Storage, PubSub, Bigtable, Bigquery, DataFlow
-
 ### Technical Team Lead
 * Continually released functionality to grow Airship’s SMS product using Agile methodology. See Airship’s SMS public release descriptions on the [What's New page](https://docs.airship.com/categories/sms/) 
 * Worked closely with product and program management to set the long-term technical direction of the project as well as prioritize and estimate tasks for Agile sprints
 * Mentored team members by pair programming, reviewing pull requests, and communicating product priorities in technical terms
 * Guided implementation of features across backend, frontend, reporting, design, and documentation
+
+### Backend Engineering
+* Created, modified, and supported Java services in a microservice environment, including participating in an on-call rotation for a system which sent billions of notifications a day
+* Java services included extensive use of Protobuf, RPC, thread pools, asynchronous data flows, unit tests, and processing at scale
+* Deployed with GCP Cloud: Compute Engine, Cloud Storage, PubSub, Bigtable, Bigquery, DataFlow
 
 ### Product Focus
 * Participated in product discovery coaching using the [Continuous Discovery model](https://www.producttalk.org/)
@@ -56,6 +56,7 @@ Developed web applications used by Intel employees for HR tasks.  Project work i
 * Wrote web apps in C#.NET, SQL Server,  jQuery/Ajax, and AngularJS over the course of approximately a dozen projects
 * Lead development of a complex REST web service written in ASP.NET Web API, tying together Oracle and SQL Server data sources
 * Delivered automated tests and detailed documentation to ensure support in the larger organization
+
 ###User Experience Focus
 * Focused on automating HR processes and, where a manual step was still required, improved workflow for employees using the web apps.
 * Reduced one HR task’s time to completion from three business days to four hours through extensive automation and workflow improvements 
