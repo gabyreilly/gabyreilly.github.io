@@ -1,11 +1,19 @@
 ---
-title: "Mockito Workshop"
+title: "Mockito in Java - Workshop"
 layout: single
 permalink: /mockito
 author_profile: true
 toc: true
 toc_icon: laptop-code
 ---
+## Intro
+
+Unit testing is an important step of software development, especially when a program will evolve and change over time. In this hands-on workshop, we will write unit tests for a small Java program using JUnit and Mockito. We will discuss how to make a program "testable", how to use mocks and assertions, and share tips for debugging. This workshop is appropriate for any developer interested in unit testing, and especially those comfortable with Java concepts.
+
+## Sign up
+
+* Jan 22nd 2020, 2pm-4pm - Airship employees only, join #mockito-workshop in slack
+* Date TBD, February 2020 - [WWCode Portland](https://www.womenwhocode.com/portland/events), full link TBD
 
 ## Setting up your computer for the workshop
 
