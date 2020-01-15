@@ -57,7 +57,7 @@ Developed web applications used by Intel employees for HR tasks.  Project work i
 * Lead development of a complex REST web service written in ASP.NET Web API, tying together Oracle and SQL Server data sources
 * Delivered automated tests and detailed documentation to ensure support in the larger organization
 
-###User Experience Focus
+### User Experience Focus
 * Focused on automating HR processes and, where a manual step was still required, improved workflow for employees using the web apps.
 * Reduced one HR task’s time to completion from three business days to four hours through extensive automation and workflow improvements 
 

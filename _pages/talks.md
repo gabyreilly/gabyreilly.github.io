@@ -89,6 +89,15 @@ Drawing of an ice cream cone with sprinkles
 @gabyreilly (twitter)"
 
 ---
+## Mockito Workshop
+
+Unit testing is an important step of software development, especially when a program will evolve and change over time. In this hands-on workshop, we will write unit tests for a small Java program using JUnit and Mockito. We will discuss how to make a program "testable", how to use mocks and assertions, and share tips for debugging. This workshop is appropriate for any developer interested in unit testing, and especially those comfortable with Java concepts.
+
+[Full workshop info!](/mockito)
+
+****
+
+## Zines!
 
 ![{{page.webhooks-alt}}](/assets/images/web-hooks-readable.001.jpeg){: .align-center}
 
