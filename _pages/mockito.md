@@ -13,7 +13,7 @@ Unit testing is an important step of software development, especially when a pro
 ## Sign up
 
 * Jan 22nd 2020, 2pm-4pm - Airship employees only, join #mockito-workshop in slack
-* Date TBD, February 2020 - [WWCode Portland](https://www.womenwhocode.com/portland/events), full link TBD
+* Feb 5 2020 - 6:30pm-8:30pm - Alchemy Code Labs - [Sign up with WWCode Portland](https://www.meetup.com/Women-Who-Code-Portland/events/267976530/)
 
 ## Setting up your computer for the workshop
 
