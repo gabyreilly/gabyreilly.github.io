@@ -177,3 +177,5 @@ You can click the arrows to expand the various modules and explore:
 ![Module expanded in IntelliJ](/assets/images/workshop-install/intellij-expand.jpg)
 
 ## Workshop slides
+
+[Download as PDF](/assets/images/mockito-in-java.pdf)
